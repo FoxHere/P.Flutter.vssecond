@@ -4,28 +4,22 @@
   },
   "journals": [
     {
-      "id": "5da7e320-d3f7-11ed-b80c-e783f8576cc6",
-      "content": "",
-      "created_at": "2023-04-05 18:18:10.010472",
-      "updated_at": "2023-04-05 18:18:10.010501"
+      "id": "aa3ab880-d56d-11ed-af63-65505d38c3f1",
+      "content": "Quarta feira",
+      "created_at": "2023-03-29 14:56:09.793268",
+      "updated_at": "2023-03-29 14:56:09.793268"
     },
     {
-      "id": "964d4570-d3f8-11ed-b80c-e783f8576cc6",
-      "content": "Hoje estudei api no Flutter",
-      "created_at": "2023-03-27 18:18:10.960210",
-      "updated_at": "2023-03-27 18:18:10.960210"
+      "id": "b370a950-d56d-11ed-af63-65505d38c3f1",
+      "content": "Aqui é sábado",
+      "created_at": "2023-04-01 14:56:09.793268",
+      "updated_at": "2023-04-01 14:56:09.793268"
     },
     {
-      "id": "fbefd630-d3f9-11ed-8504-533a3a64f2f1",
-      "content": "",
-      "created_at": "2023-04-05 18:36:54.560164",
-      "updated_at": "2023-04-05 18:36:54.560214"
-    },
-    {
-      "id": "00e1b4b0-d3fa-11ed-8504-533a3a64f2f1",
-      "content": "Hoje foi um dia legal!",
-      "created_at": "2023-03-28 18:36:56.190227",
-      "updated_at": "2023-03-28 18:36:56.190227"
+      "id": "3e5b7cf0-d570-11ed-ad7d-a73eef02dacf",
+      "content": "Legal refaturaçao  completa",
+      "created_at": "2023-03-29 15:15:50.939074",
+      "updated_at": "2023-03-29 15:15:50.939074"
     }
   ]
 }
